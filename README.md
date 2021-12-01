@@ -1,0 +1,2 @@
+# wList
+Wordlist Oluşturma Aracı
