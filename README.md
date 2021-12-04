@@ -1,4 +1,4 @@
 # wList
-Wordlist Oluşturma Aracı
+Türk yapımı wordlist oluşturma aracı
 
-Çok Yakında Yayında Şuanda Beta Sürümde Ve Test Aşamasında
+buna benzer cupp gibi araclar var türk yapımı olarak boyle bir sey yapmak istedim suan 1.0 demo surumunde ve test asamasında
